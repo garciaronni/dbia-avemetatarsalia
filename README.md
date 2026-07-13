@@ -2,8 +2,6 @@
 dBIA - Dataset Integrado dos Avemetatarsalia. Banco de dados e eBook de análise paleontológica/biológica.
 
 # dBIA: Database Integrada dos Avemetatarsalian
-[![ODS 4: Educação de Qualidade](https://shields.io)](https://un.org)
-[![Open Data](https://shields.io)](#)
 
 Seja bem-vindo(a) ao repositório oficial do **dBIA (Database Integrated of Avemetatarsalian)**. Este projeto nasceu com o propósito de integrar o rigor da pesquisa paleontológica de ponta com o impacto social da extensão universitária, alinhando-se diretamente ao **Objetivo de Desenvolvimento Sustentável 4 (ODS 4) da ONU: Educação de Qualidade e Universal**.
 
