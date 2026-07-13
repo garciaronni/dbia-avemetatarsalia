@@ -1,7 +1,7 @@
 # dbia-avemetatarsalia
 dBIA - Integrated Dataset of Avemetatarsalia. Paleontological/biological analysis database and eBook.
 
-## Manifesto: The Timeline Written in Rocks and Data
+## Mission Statement: The Timeline Written in Rocks and Data
 
 Earth is a dynamic planet, whose current surface conceals the scars of profound geological, climatic, and biological transformations. Throughout its vast 4.5-billion-year history, entire ecosystems emerged, dominated the globe, and vanished, leaving behind a fragmented yet fascinating record of their existence.
 
