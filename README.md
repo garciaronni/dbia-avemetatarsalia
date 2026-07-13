@@ -59,4 +59,3 @@ Este projeto foi desenhado para ser perpétuo e colaborativo. Se você é paleon
 3. Abra um **Pull Request** explicando a alteração.
 
 Sua contribuição ajudará a manter viva uma ferramenta gratuita de educação universal!
-<img width="1502" height="2325" alt="image" src="https://github.com/user-attachments/assets/ed10f988-6ca5-4180-8408-f8e22ed9a67d" />
