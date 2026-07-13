@@ -1,7 +1,7 @@
 # dbia-avemetatarsalia
 dBIA - Dataset Integrado dos Avemetatarsalia. Banco de dados e eBook de análise paleontológica/biológica.
 
-## Manifesto: A Linha do Tempo Escrita nas Rochas e nos Dados
+## Missão: A Linha do Tempo Escrita nas Rochas e nos Dados
 
 A Terra é um planeta dinâmico, cuja superfície atual esconde as cicatrizes de profundas transformações geológicas, climáticas e biológicas. Ao longo de sua vasta história de 4,5 bilhões de anos, ecossistemas inteiros emergiram, dominaram o globo e desapareceram, deixando para trás um registro fragmentado, mas fascinante, de sua existência. 
 
