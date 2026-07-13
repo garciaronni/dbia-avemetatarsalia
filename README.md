@@ -30,7 +30,6 @@ Diferente de repositórios globais tradicionais como a *Paleobiology Database (P
 * **Foco em Paleoecologia Comportamental:** Dados tabulados sobre `Grupos de Convívio`, `Predadores/Presas Conhecidos` e `Evidências de Comportamento Social`, permitindo análises ricas sobre a dinâmica dos ecossistemas antigos.
 * **Transparência Metodológica:** Integração direta com identificadores digitais de artigos (`DOI_Artigo`) e números de referência da PBDB, garantindo a rastreabilidade científica de cada linha inserida.
 
----
 
 ## Possibilidades de Aplicação (O que gerar com o dBIA?)
 
@@ -44,7 +43,6 @@ A estrutura do dBIA foi projetada para ser flexível, permitindo que a comunidad
 * **Dashboards Interativos Dinâmicos:** Conexão nativa com ferramentas como o **Power BI** para criar experiências visuais fluidas — como mapas interativos de paleolocalização e menus baseados em cliques nas camadas geológicas da Terra.
 * **Análises Preditivas em Python/R:** Modelagem estatística para tentar prever o peso ou a velocidade estimada de novas espécies descobertas com base nas proporções ósseas já catalogadas na base.
 
----
 
 ## Estrutura deste Repositório
 
@@ -52,7 +50,6 @@ A estrutura do dBIA foi projetada para ser flexível, permitindo que a comunidad
 * `dBIA_dataset_visual.xlsx`: Versão em Excel tratada visualmente (com filtros e organização intuitiva) para professores de escola e não especialistas consultarem manualmente.
 * `Dicionario_Dados_Confiabilidade.md`: O mapa completo de campos detalhando a descrição de cada coluna, fontes utilizadas e o nível de consenso científico do dado.
 
----
 
 ## Como Colaborar (Deixando um Legado)
 
