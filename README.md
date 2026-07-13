@@ -1,6 +1,23 @@
 # dbia-avemetatarsalia
 dBIA - Dataset Integrado dos Avemetatarsalia. Banco de dados e eBook de análise paleontológica/biológica.
 
+## Manifesto: A Linha do Tempo Escrita nas Rochas e nos Dados
+
+A Terra é um planeta dinâmico, cuja superfície atual esconde as cicatrizes de profundas transformações geológicas, climáticas e biológicas. Ao longo de sua vasta história de 4,5 bilhões de anos, ecossistemas inteiros emergiram, dominaram o globo e desapareceram, deixando para trás um registro fragmentado, mas fascinante, de sua existência. 
+
+Reconstruir esse passado distante sempre foi um dos maiores desafios da ciência. O registro fóssil, embora rico, assemelha-se a um livro cujas páginas foram rasgadas, espalhadas pelo tempo e parcialmente destruídas. É nesse cenário que a união entre a Paleontologia tradicional e a Ciência de Dados se torna indispensável. 
+
+A análise de dados paleontológicos atua como uma lente de alta resolução sobre o passado deep time. Ao catalogar, integrar e estruturar informações morfológicas, temporais e geoespaciais, transformamos fósseis isolados em padrões estatísticos compreensíveis. Algoritmos e bancos de dados integrados permitem-nos decifrar curvas de biodiversidade, rotas de dispersão paleobiogeográfica e os impactos de extinções em massa com uma precisão sem precedentes.
+
+Este projeto, centrado no dataset **dBIA**, nasce desse propósito: utilizar o rigor da análise de dados modernos para organizar o conhecimento sobre os *Avemetatarsalia*, auxiliando cientistas e entusiastas a ler as linhas invisíveis dessa história que a própria Terra escreveu
+
+Historicamente, o conhecimento sobre esses organismos permaneceu fragmentado. Os bancos de dados tradicionais da paleontologia muitas vezes operam de forma isolada, com informações não centralizadas, dispersas em artigos científicos de diferentes épocas, coleções de museus regionais e registros analógicos de difícil acesso. Essa descentralização cria barreiras para análises macroevolutivas globais. 
+
+Diante dessa lacuna, o projeto **dBIA** ambicionou romper essas fronteiras ao reunir, padronizar e centralizar as informações disponíveis das espécies já descobertas. O resultado desta curadoria e integração de dados é a compilação da mais completa e atualizada lista já disponibilizada publicamente sobre este grupo de dinossauros e pterossauros, oferecendo à comunidade científica uma base sólida para novas descobertas e visualizações analíticas e com as citações de suas principais fontes.
+
+
+
+
 # dBIA: Database Integrada dos Avemetatarsalian
 
 Seja bem-vindo(a) ao repositório oficial do **dBIA (Database Integrated of Avemetatarsalian)**. Este projeto nasceu com o propósito de integrar o rigor da pesquisa paleontológica de ponta com o impacto social da extensão universitária, alinhando-se diretamente ao **Objetivo de Desenvolvimento Sustentável 4 (ODS 4) da ONU: Educação de Qualidade e Universal**.
