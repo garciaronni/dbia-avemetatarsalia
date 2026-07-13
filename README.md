@@ -1,7 +1,7 @@
 # dbia-avemetatarsalia
 dBIA - Dataset Integrado dos Avemetatarsalia. Banco de dados e eBook de análise paleontológica/biológica.
 
-# dBIA: Database Integrated of Avemetatarsalian
+# dBIA: Database Integrada dos Avemetatarsalian
 [![ODS 4: Educação de Qualidade](https://shields.io)](https://un.org)
 [![Open Data](https://shields.io)](#)
 
